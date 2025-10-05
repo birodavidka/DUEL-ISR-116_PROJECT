@@ -1,0 +1,23 @@
+# Python által generált fájlok
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtuális környezet
+.venv/
+env/
+venv/
+
+# IDE/Editor beállítások
+.vscode/
+.idea/
+
+# OS specifikus fájlok
+.DS_Store
+
+# Környezeti változók
+.env
+
+# Egyéb
+*.log
